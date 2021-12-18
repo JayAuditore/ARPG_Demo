@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E8CABB66-4461-F5A9-90F5-938DB7EB948C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MIniGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
